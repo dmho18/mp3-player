@@ -1,3 +1,3 @@
 # mp3-player
 
-[Report page 1](./report-1.png)
+https://drive.google.com/file/d/1flUSZPJxrYfit6IqjElc65JvxRNsc9B-/view?usp=sharing
